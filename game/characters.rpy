@@ -1,4 +1,5 @@
-
+""" Персонажи """
+define cutscene = Character('', color="#c8ffc8")
 
 """ Andrey """
 image andrey cry = "Andrey/cry.png"
@@ -8,4 +9,5 @@ image andrey sad = "Andrey/sad.png"
 image andrey smile = "Andrey/smile.png"
 
 define a = Character('Андрей', color="#2f00ff")
+
 
